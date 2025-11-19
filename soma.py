@@ -3,4 +3,3 @@ def soma(x,y):
     return z
 
 s = soma(3,4)
-print(s)
